@@ -1,0 +1,150 @@
+body {
+  background-color: rgba(105, 185, 231, 0.829);
+}
+
+.App {
+  text-align: center;
+  padding-left: 3cm;
+  padding-right: 3cm;
+}
+
+button {
+  background-color: antiquewhite;
+  border-width: 0;
+  border-radius: 3px;
+  padding: 5px;
+  margin: 5px;
+}
+
+button:hover {
+  background-color: rgb(202, 193, 181);
+}
+
+.home {
+  text-align: center;
+}
+
+.home > h1 {
+  border-radius: 10px;
+  background-color: antiquewhite;
+  margin: 20px 0px 10px;
+}
+
+.home.button {
+  scale: 125%;
+  margin: 0 10px 10px 10px;
+}
+
+div.module {
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+  border-radius: 10px;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+div.ref-list {
+  border-top: 2px solid;
+  margin-top: 20px;
+}
+
+.ref {
+  text-align: left;
+}
+
+.module.ref > h3 {
+  margin: 10px 0 0;
+}
+
+.mode.picker > button {
+  width: 50%;
+}
+
+.mode.picker > div > button {
+  width: 24.5%;
+  font-size: large;
+}
+
+.list {
+  list-style-type: none;
+  width: 100%;
+  position: relative;
+  text-align: center;
+}
+
+.list > .item > button {
+  width: 50%;
+  font-size: large;
+}
+
+button.yes {
+  background-color: rgb(61, 180, 61);
+  color: white;
+  width: 20%;
+}
+button.yes:hover {
+  background-color: rgb(49, 138, 49);
+}
+
+button.no {
+  background-color: rgba(255, 125, 125, 0.767);
+  color: white;
+  width: 20%;
+}
+button.no:hover {
+  background-color: rgba(189, 91, 91, 0.767);
+}
+
+.picker {
+  text-align: center;
+}
+
+.practice {
+  background-color: rgba(128, 128, 128, 0.295);
+  padding: 5px;
+}
+
+.title {
+  margin: 0;
+  padding: 5px;
+}
+
+.info > .text, .info > .list {
+  text-align: left;
+}
+
+.multiple-choice {
+  text-align: left;
+  position: relative;
+}
+
+.multiple-choice>button {
+  position: relative;
+  margin-top: 5px;
+  width: 90%;
+  left: 50%;
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+  font-size: medium;
+}
+
+.selector {
+  border: 5px;
+  border-width: 5px;
+}
+
+.selector > button {
+  width: 25%;
+}
+
+div.ref {
+  padding: 20px;
+  border-bottom: 1px solid;
+}
+
+div.ref > p {
+  margin: 0px;
+}
+

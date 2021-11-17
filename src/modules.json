@@ -1,0 +1,104 @@
+[
+    {
+        "title": "What is Active Listening?",
+        "info": [{
+            "type": "video/youtube",
+            "link": "https://www.youtube.com/embed/rzsVh8YwZEQ"
+        },{
+            "type": "text",
+            "text": "Active listening requires us as listeners to capture what the sender is communicating from the sender's point of view through verbal and non-verbal cues.​ More than that, we must convey to the sender that we are seeing things from the sender's point of view.​ We can never be sure to understand another person completely or in detail. Therefore, it is essential in active listening that the listener frequently and continuously validates the accuracy of understanding in order to keep distortion and misunderstandings at a minimum."
+        }],
+        "questions": [
+            {
+                "question": "Is active listening all about what the other person is saying?",
+                "answer": false,
+                "help": "No, it's about what they are saying and what their body language is showing."
+            },
+            {
+                "question": "What is active listening?",
+                "options": [
+                    "The listener is genuinely interested in hearing and understanding the other person's point of view and therefore listens intently. Assuming to have heard correctly the listener does not say anything but indicates interest and attention by nonverbal aspects of communication like by maintaining eye contact and periodically nodding or smiling.",
+                    "A listener reflects back to the sender his or her impression of what is expressed without judging.",
+                    "Sound enters someone's ears but there is little chance or even attempt to comprehend or respond (e.g., listening to someone while reading the newspaper)."
+                ],
+                "answer": 1,
+                "help": [
+                    "\"Active listening requires us as listeners to capture what the sender is communicating from the sender's point of view. More than that, we have to convey to the sender that we are seeing things from the sender's point of view. We can never be sure to understand another person completely or in detail.  Therefore it is essential in active listening that the listener frequently and continuously validates the accuracy of understanding in order to keep distortion and misunderstandings at a minimum.\" (Bauer and Figl, 2008)",
+                    "\"Active listening requires us as listeners to capture what the sender is communicating from the sender's point of view. More than that, we have to convey to the sender that we are seeing things from the sender's point of view. We can never be sure to understand another person completely or in detail.  Therefore it is essential in active listening that the listener frequently and continuously validates the accuracy of understanding in order to keep distortion and misunderstandings at a minimum.\" (Bauer and Figl, 2008)"
+                ]
+            },
+            {
+                "question": "Does the listener only have to attentively listen and read the speaker's body language?",
+                "answer": false,
+                "help": "No, it's important that the listener reinforces that they are listening, for example, through paraphrasing.​"
+            },
+            {
+                "question": "Should the listener ask questions?",
+                "answer": true,
+                "help": "Asking can help the listener clarify something he might have misunderstood and it also shows the speaker that the listener is interested in and understanding what he is saying."
+            }
+        ],
+        "ref": [
+            {
+                "text": "Bauer, C., & Figl, K. (2008, October). \"Active listening\" in written online communication-a case study in a course on \"soft skills for computer scientists\". In 2008 38th Annual Frontiers in Education Conference (pp. F2C-1). IEEE.",
+                "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4720282"
+            },
+            {
+                "text": "GCFLearnFree.org. (2019, Jan 29), Active Listening [Video]. Youtube.",
+                "url": "https://www.youtube.com/watch?v=rzsVh8YwZEQ"
+            }
+        ]
+    },
+    {
+        "title": "What are the benefits of Active Listening?",
+        "info": [
+            {
+                "type": "text",
+                "text": "Active listening has a lot of benefits. These are:"
+            },
+            {
+                "type": "text/list",
+                "items": [
+                    "Better understanding - The fact that the listener also talks for clarification or paraphrasing, means that both the speaker and the listener can be sure that all was understood.",
+                    "Increased availability - As someone is listened to, their availability to hear the other person will increase.",
+                    "Showing respect - Actively listening to someone will show our respect for them and what they have to say.",
+                    "Greater empathy - Through active listening it is possible to better understand a person's emotional state, which will allow the listener to interact with the speaker in a more empathetic manner.",
+                    "Greater quality of information - By intervening, the listener can guide the speaker to reach the core of his or hers problem/reason for talking."
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "question": "Are faster conversations a benefit of Active Listening?",
+                "answer": false,
+                "help": "No, actively listening does not make conversations faster."
+            },
+            {
+                "question": "What is a benefit of Active Listening?",
+                "options": [
+                    "Better memory of conversations.",
+                    "Better at speaking.",
+                    "Better understanding.",
+                    "All of the above."
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is not a benefit of Active Listening?",
+                "options": [
+                    "Greater respect between the speaker and the listener.",
+                    "Lesser quality of information.",
+                    "Greater empathy.",
+                    "Increased availability."
+                ],
+                "answer": 1
+            }
+        ],
+        "ref": [
+            {
+                "text": "Bauer, C., & Figl, K. (2008, October). \"Active listening\" in written online communication-a case study in a course on \"soft skills for computer scientists\". In 2008 38th Annual Frontiers in Education Conference (pp. F2C-1). IEEE.",
+                "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4720282"
+            }
+        ]
+    }
+]
